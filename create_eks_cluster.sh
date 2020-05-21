@@ -4,7 +4,7 @@ eksctl create cluster \
     --region us-west-2 \
     --nodegroup-name cpu-nodes \
     --node-type c5.xlarge \
-    --nodes 1 \
+    --nodes 2 \
     --node-volume-size 50 \
     --node-zones us-west-2a \
     --timeout=40m \
