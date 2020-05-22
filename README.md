@@ -1,1 +1,1 @@
-# kubeflow-pipelines-sagemaker-examples
+### Examples for using Amazon SageMaker components in Kubeflow Pipelines
