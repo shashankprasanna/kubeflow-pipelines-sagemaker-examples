@@ -37,6 +37,6 @@ Deploy a model with Amazon SageMaker deployment
 **Input**: model artifact name <br>
 **Output**: N/A
 
-### Mapping between Amazon SageMaker Kubeflow Pipeline component and Amazon SageMaker capabilities:
+## Mapping between Amazon SageMaker Kubeflow Pipeline component and Amazon SageMaker capabilities:
 
 ![mapping](sm_kpf.png)
