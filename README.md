@@ -2,6 +2,8 @@
 
 ![Demo_pipeline](pipeline.png)
 
+Video: https://www.youtube.com/watch?v=LKmkiUdhV58
+
 #### <ins>First component:
 Runs an Amazon SageMaker hyperparameter tuning job to optimize the following hyperparameters:
 
