@@ -1,8 +1,12 @@
 ## Examples for using Amazon SageMaker components in Kubeflow Pipelines
 
+
+
 ![Demo_pipeline](pipeline.png)
 
-Video: https://www.youtube.com/watch?v=LKmkiUdhV58
+### Blog post: https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/
+
+### Video with demo walkthrough: https://www.youtube.com/watch?v=LKmkiUdhV58
 
 #### <ins>First component:
 Runs an Amazon SageMaker hyperparameter tuning job to optimize the following hyperparameters:
